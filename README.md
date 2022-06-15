@@ -1,3 +1,13 @@
+CREDITOS A: https://github.com/denulemos
+
+LO SIGUIENTE ES UN COPY PASTE DEL README DE https://github.com/denulemos
+
+-------------------------------------------------------------------------------
+
+
+
+
+
 # Ejercicios Logica de Programacion
 
 **Work in Progress** 👷
