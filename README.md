@@ -12,8 +12,6 @@ LO SIGUIENTE ES UN COPY PASTE DEL README DE @denulemos
 
 **Work in Progress** 👷
 
-**Give me a coffee!** <https://cafecito.app/denolemon> ☕ ☕
-
 En este repositorio encontrarás diversos ejercicios de logica resueltos con Javascript. Son ejercicios comunes de entrevistas tecnicas y pruebas tecnicas.
 
 ¿Alguna duda? Me podés encontrar en Twitter como `@DenoKennedy`
