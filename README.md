@@ -2,6 +2,8 @@ CREDITOS A: @denulemos
 
 LA SIGUIENTE RECOPILACION DE EJERCICIOS LA REALIZÓ @denulemos. CEDITOS PARA EL/ELLA.
 Hay ejercicios fáciles y otros más complejos. Todos los voy a ir resolviendo utilizando los conocimientos y habilidades que tengo actualmente.  Sé que hay mejores maneras de resolverlos, también sé que van a haber medidas de seguridad que no están implementadas, pero mi principal objetivo actualmente es practicar los diferentes métodos de Javascript. Una vez terminado los 100 ejercicios voy a ir mejorandolos uno a uno.
+
+
 -------------------------------------------------------------------------------
 
 
